@@ -1,0 +1,83 @@
+body
+{
+	background-color: #ffefe;
+	margin: 2em auto;
+	max-width: 800px;
+	text-align: justify;
+	color: #454545;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px
+}
+
+.red
+{
+	color: #800;
+}
+
+.blue
+{
+	color: blue;
+}
+
+.catImg
+{
+	width: 40%;
+	display: inline-block;
+}
+
+.cat-little-text
+{
+	font-size: small;
+}
+
+.cat-text
+{
+	float: right;
+	width: 55%;
+}
+
+.kopimi
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+small
+{
+	font-size: .6em
+}
+
+.WRONG
+{
+	
+	color:#c0392b;
+	text-decoration: underline;
+	font-size: 1.1em
+}
+
+.square44 {
+	display: inline-block;
+	height: 1em;
+	width: 1em;
+	background-color: #444;
+}
+.square45 {
+	display: inline-block;
+	height: 1em;
+	width: 1em;
+	background-color: #454545;
+}
+
+a:visited{
+	color: #941352;
+}
+
+a:link {
+  color: #0077aa;
+}
+
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}
